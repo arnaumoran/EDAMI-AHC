@@ -1,0 +1,10 @@
+data pint clusters: N data = N clusters
+calculate index of similitude per data pair: P01 P02 ... P0N ... PN-1N
+loop until 1 cluster
+{
+merge highest similitude in a cluster: N-1 clusters
+recalculate the similitude of all clusters with this new cluster
+}
+
+
+Diagram: https://lucid.app/lucidchart/a560b04d-5fbc-4746-b380-f7a9ad0adcd0/edit?viewport_loc=-2359%2C-553%2C4039%2C1876%2C0_0&invitationId=inv_a33fcf20-54c5-49f9-b2b8-cb9742f1e7ef
