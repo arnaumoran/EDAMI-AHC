@@ -1,6 +1,7 @@
 # EDAMI-AHC
 Agglomerative hierarchical clustering for clustering objects described by nominal and numerical attributes
 
+
 Input Data:
     CSV File:
       ● The input data is read from a CSV file, specifically from the file path defined in file_path. By default data from the dataset “adult.data”.
